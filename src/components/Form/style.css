@@ -1,0 +1,52 @@
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+  align-items: center;
+  max-width: 360px;
+  width: 90%;
+  padding: 10px 15px;
+  margin: 0px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="password"],
+select {
+  align-items: center;
+  max-width: 175px;
+  width: 44%;
+  padding: 10px 15px;
+  margin: 8px 5px;
+
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.cadastrar {
+  margin-top: 5px;
+  display: block;
+  width: 92%;
+  border-radius: 5px;
+  height: 30px;
+  background-color: rgba(20, 152, 240, 0.897);
+}
+fieldset {
+  text-align: -webkit-center;
+}
+span {
+  font-size: 18px;
+  color: red;
+  position: relative;
+  top: 0px;
+  display: inline-block;
+}
+.btnShow {
+  height: 30px;
+  width: 100px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: darkred;
+}

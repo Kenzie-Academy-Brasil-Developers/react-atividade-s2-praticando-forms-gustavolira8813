@@ -1,0 +1,21 @@
+ul {
+  list-style: none;
+  background-color: rgba(240, 40, 26, 0.973);
+}
+
+.btnBack {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: red;
+}
+th {
+  text-align: center;
+  border: 2px solid;
+  background-color: rgba(139, 57, 19, 0.884);
+}
+td {
+  text-align: start;
+  border: 1px solid;
+  background-color: rgb(139, 111, 19);
+}
